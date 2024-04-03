@@ -2,7 +2,7 @@
 title: 'PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked
   Language Modeling'
 authors:
-- **Tianlai Chen**
+- Tianlai Chen
 - Sarah Pertsemlidis
 - Rio Watson
 - Venkata Srikar Kavirayuni
