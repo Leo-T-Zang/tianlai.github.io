@@ -4,6 +4,10 @@ title: ''
 date: 2022-10-24
 type: landing
 
+banner:
+  caption: ''
+  image: 'header.jpg'
+
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -320,8 +324,6 @@ sections:
   #   design:
   #     columns: '1'
 
-banner:
-  image: 'header.jpg'
 
 # gallery_item:
 #   - album: 'conference'
