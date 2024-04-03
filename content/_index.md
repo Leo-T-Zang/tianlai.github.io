@@ -118,16 +118,6 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="conference" >}}
-      gallery_item:
-        - album: conference
-          image: moml23.jpg
-          caption: 'Present PepMLM at MoML 23' Boston'
-        - album: conference
-          image: nips23.jpg
-          caption: 'Present AMPDiffusion at NIPS 23' GenBio Workshop'
-        - album: conference
-          image: grc24.jpg
-          caption: 'Present PepMLM at GRC'
     design:
       columns: '1'
 
@@ -329,7 +319,18 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
----
 
 banner:
   image: 'header.png'
+
+gallery_item:
+  - album: conference
+    image: moml23.jpg
+    caption: 'Present PepMLM at MoML 23' Boston'
+  - album: conference
+    image: nips23.jpg
+    caption: 'Present AMPDiffusion at NIPS 23' GenBio Workshop'
+  - album: conference
+    image: grc24.jpg
+    caption: 'Present PepMLM at GRC'
+---
