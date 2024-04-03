@@ -44,7 +44,7 @@ url_code: 'https://github.com/programmablebio/pepmlm'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-  focal_point: 'smart'
+  focal_point: ''
   placement: 1
   preview_only: false
 
