@@ -38,5 +38,6 @@ url_pdf: 'https://openreview.net/forum?id=145TM9VQhx'
 image:
   caption: ''
   focal_point: 'smart'
+  placement: 1
   preview_only: false
 ---

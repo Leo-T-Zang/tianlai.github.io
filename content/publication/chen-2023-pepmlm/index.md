@@ -45,6 +45,7 @@ url_code: 'https://github.com/programmablebio/pepmlm'
 image:
   caption: ''
   focal_point: 'smart'
+  placement: 1
   preview_only: false
 
 #Example

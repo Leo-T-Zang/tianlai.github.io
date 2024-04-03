@@ -4,9 +4,9 @@ title: ''
 date: 2022-10-24
 type: landing
 
-banner:
-  caption: ''
-  image: 'header.jpg'
+# banner:
+#   caption: ''
+#   image: 'header.jpg'
 
 sections:
   - block: about.biography
