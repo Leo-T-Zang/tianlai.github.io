@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈天涞
+title: 陈天涞|Leo
 
 # Name pronunciation (optional)
 name_pronunciation: Tianlai Chen
@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-I'm Tianlai (Leo) Chen 陈天涞, a Master student of Biomedical Engineering at Duke University. Currently, I am working at the [Programmable Biology Group](https://www.chatterjeelab.com/) with Dr. Pranam Chatterjee. Before my graduate studies, I obtained my B.S. degree of Data Science from Duke University and Duke Kunshan University in 2023. My research interests revolve around molecular engineering and AI for Biology. Most recently, my work has focused on: 
+I'm a Master student of Biomedical Engineering at Duke University. Currently, I am working at the [Programmable Biology Group](https://www.chatterjeelab.com/) with Dr. Pranam Chatterjee. Before my graduate studies, I obtained my B.S. degree of Data Science from Duke University and Duke Kunshan University in 2023. My research interests revolve around molecular engineering and AI for Biology. Most recently, my work has focused on: 
 
 - Using protein language models for binder design
 - Improving Protein Language Model representation
