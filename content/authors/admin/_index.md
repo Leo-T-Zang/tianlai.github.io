@@ -32,6 +32,8 @@ interests:
   - Protein/RNA Language Model
   - Protein Engineering
   - RNA Engineering
+  - Generative AI
+  - Causal Inference
   
 
 # Education to show in About widget

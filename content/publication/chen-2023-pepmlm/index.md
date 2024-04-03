@@ -43,8 +43,8 @@ url_code: 'https://github.com/programmablebio/pepmlm'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ''
+  focal_point: 'smart'
   preview_only: false
 
 #Example
