@@ -37,6 +37,6 @@ url_pdf: 'https://openreview.net/forum?id=145TM9VQhx'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'smart'
   preview_only: false
 ---
