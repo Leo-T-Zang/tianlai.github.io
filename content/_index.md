@@ -321,7 +321,7 @@ sections:
   #     columns: '1'
 
 banner:
-  image: 'header.png'
+  image: 'header.jpg'
 
 # gallery_item:
 #   - album: 'conference'
