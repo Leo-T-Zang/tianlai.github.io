@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      title: Tianlai (Leo) Chen
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
@@ -53,14 +53,14 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: card
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication

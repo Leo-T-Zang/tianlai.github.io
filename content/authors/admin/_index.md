@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈天涞|Leo
+title: 陈天涞
 
 # Name pronunciation (optional)
 name_pronunciation: Tianlai Chen
