@@ -11,4 +11,6 @@ publishDate: '2024-04-03T02:55:02.728192Z'
 publication_types:
 - article-journal
 publication: '*Current Opinion in Biomedical Engineering*'
+
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2468451123000521'
 ---

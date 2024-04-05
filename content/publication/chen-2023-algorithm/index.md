@@ -12,4 +12,6 @@ publishDate: '2024-04-03T02:55:02.719456Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'
+
+url_pdf: 'https://www.nature.com/articles/s41598-023-35132-5'
 ---

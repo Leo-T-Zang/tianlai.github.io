@@ -18,4 +18,6 @@ publishDate: '2024-04-03T20:02:52.229023Z'
 publication_types:
 - article-journal
 publication: '*Communications Biology*'
+
+url_pdf: 'https://www.nature.com/articles/s42003-023-05464-z'
 ---
