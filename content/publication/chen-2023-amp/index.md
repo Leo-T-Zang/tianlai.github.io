@@ -14,7 +14,7 @@ publication: '*NeurIPS 2023 Generative AI and Biology (GenBio) Workshop*'
 
 tags: ['Protein Language Model', 'Diffusion Model']
 
-abstract: We introduce **AMP-Diffusion**, a latent space diffusion model tailored for antimicrobial peptide (AMP) design, harnessing the capabilities of the state-of-the-art pLM, ESM-2, to de novo generate functional AMPs for downstream experimental application. 
+abstract: We introduce **AMP-Diffusion**, a latent space diffusion model tailored for antimicrobial peptide (AMP) design, harnessing the capabilities of the state-of-the-art pLM, ESM-2, to de novo generate functional AMPs for downstream experimental application. (**Accepted as Poster at NeurIPS 23' GenBio Workshop**)
 
 # Display this page in the Featured widget?
 featured: true
@@ -37,7 +37,7 @@ url_pdf: 'https://openreview.net/forum?id=145TM9VQhx'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'center'
   placement: 1
   preview_only: false
 ---
