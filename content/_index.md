@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-04-05
 type: landing
 
 # banner:
@@ -54,7 +54,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -294,16 +294,16 @@ sections:
   #     columns: '1'
 
 
-# gallery_item:
-#   - album: 'conference'
-#     image: 'moml23.jpg'
-#     caption: 'Present PepMLM at MoML 23' Boston'
-#   - album: 'conference'
-#     image: 'nips23.jpg'
-#     caption: 'Present AMPDiffusion at NIPS 23' GenBio Workshop'
-#   - album: 'conference'
-#     image: 'grc24.jpg'
-#     caption: 'Present PepMLM at GRC'
+gallery_item:
+- album: conference
+  image: 'moml23.jpg'
+  caption: 'Present PepMLM at MoML 23' Boston'
+- album: conference
+  image: 'nips23.jpg'
+  caption: 'Present AMPDiffusion at NIPS 23' GenBio Workshop'
+- album: conference
+  image: 'grc24.jpg'
+  caption: 'Present PepMLM at GRC'
 
 
 ---
