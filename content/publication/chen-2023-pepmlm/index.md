@@ -21,7 +21,7 @@ publication: '*ArXiv*'
 
 tags: ['Protein Language Model', 'Binder Design']
 
-abstract: We introduce **PepMLM**, a purely target sequence-conditioned de novo generator of linear peptide binders. By employing a novel masking strategy that uniquely positions cognate peptide sequences at the terminus of target protein sequences, PepMLM tasks the state-of-the-art ESM-2 pLM to fully reconstruct the binder region, achieving low perplexities matching or improving upon previously-validated peptide-protein sequence pairs. (**Accepted as Poster at ICLR GEM Workshop**)
+abstract: We introduce **PepMLM**, a purely target sequence-conditioned *de novo* generator of linear peptide binders. By employing a novel masking strategy that uniquely positions cognate peptide sequences at the terminus of target protein sequences, PepMLM tasks ESM-2 to fully reconstruct the binder region, achieving low perplexities matching or improving upon previously-validated peptide-protein sequence pairs. (**Accepted as Poster at ICLR GEM Workshop**)
 
 # Display this page in the Featured widget?
 featured: true
