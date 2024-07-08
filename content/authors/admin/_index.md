@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-I'm a Master student of Biomedical Engineering at Duke University. Currently, I am working at the [Programmable Biology Group](https://www.chatterjeelab.com/) with Dr. Pranam Chatterjee. Before my graduate studies, I obtained my B.S. degree of Data Science from Duke University and Duke Kunshan University in 2023. My research interests revolve around molecular engineering and AI for Biology. Most recently, my work has focused on: 
+Also known as Tianlai (Leo) Zang, I was born and raised in the Wuyue District of China, where 'Zang' is the local pronunciation for 'Chen'. I'm a Master student of Biomedical Engineering at Duke University. Currently, I am working with Dr. Pascal Notin at [Marks Lab](https://www.deboramarkslab.com/), Harvard Medical School. Before that, I worked with Dr. Pranam Chatterjee, [Programmable Biology Group](https://www.chatterjeelab.com/). I obtained my B.S. degree of Data Science from Duke University and Duke Kunshan University in 2023. My research interests revolve around molecular engineering and AI for Biology. Most recently, my work has focused on: 
 
 - Using protein language models for binder design
 - Improving Protein Language Model representation

@@ -12,7 +12,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Tianlai (Leo) Chen
+      title: Tianlai (Leo) Zang
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
  
